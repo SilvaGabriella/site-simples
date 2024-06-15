@@ -1,3 +1,3 @@
-document.getElementById("btn").addEventListener("mouseover", function(){
-    document.getElementById("text").innerHTML = "TEXTO"
+document.getElementById("btn").addEventListener("click", function(){
+    document.getElementById("text").innerHTML = "TE AMO"
 });
